@@ -1,4 +1,4 @@
-# TrabalhoRafa-03l06
+# SignalBridge
 
 Integração entre Broker MQTT, banco de dados SQLite e NodeMCU ESP8266.
 
